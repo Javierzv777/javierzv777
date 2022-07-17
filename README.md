@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Javier Zapata
 =====================================================================================================================================
 
-Full Stack Web Developer
+Full Stack Developer
 ------------------------
 
 programming student initially self-taught and lately also academically with henry bootcamp and Sergio arboleda university, my forte is logic and algorithms both in backend and frotend, but I also like HTML and CSS, I like adventure to incorporate new technologies in the projects I do, such as the satisfaction of learning new things every day
