@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/q03bKcF/General-Manager-Linked-In-Article-Cover-Image.png" />
+<br/>
 Hi 👋 My name is Javier Zapata
 =====================================================================================================================================
 
