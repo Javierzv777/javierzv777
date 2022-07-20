@@ -1,9 +1,7 @@
 <img src="https://i.ibb.co/q03bKcF/General-Manager-Linked-In-Article-Cover-Image.png" />
 <br/>
 Hi 👋 My name is Javier Zapata
-=====================================================================================================================================
-
-=====================================================================================================================================
+=====================================================================================================
 
 Full Stack Web Developer
 ------------------------
@@ -47,4 +45,4 @@ Full Stack Programmer, graduated from Henry bootcamp, with skills in Javascript,
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/javierzv777/https://github.com/Javierzv777/ProyectoGrupal-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=javierzv777&repo=https://github.com/Javierzv777/ProyectoGrupal-1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/javierzv777/https://github.com/Javierzv777/videogames-pi-FT-25" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=javierzv777&repo=https://github.com/Javierzv777/videogames-pi-FT-25&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
