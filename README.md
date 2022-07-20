@@ -3,6 +3,8 @@
 Hi 👋 My name is Javier Zapata
 =====================================================================================================================================
 
+=====================================================================================================================================
+
 Full Stack Web Developer
 ------------------------
 
@@ -12,7 +14,9 @@ Full Stack Programmer, graduated from Henry bootcamp, with skills in Javascript,
 * 🧠  I'm learning java in Sergio Arboleda University
 * 🤝  I'm open to collaborating on interesting proyects
 
-<a href="https://www.github.com/javierzv777" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/javierzv7771" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/javierzv7771?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/javierzv777" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/javierzv777?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
@@ -47,4 +51,4 @@ src="https://img.shields.io/github/followers/javierzv777?logo=github&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/javierzv777/github.com/Javierzv777/ProyectoGrupal-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=javierzv777&repo=github.com/Javierzv777/ProyectoGrupal-1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/javierzv777/github.com/Javierzv777/videogames-pi-FT-25" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=javierzv777&repo=github.com/Javierzv777/videogames-pi-FT-25&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/javierzv777/ProyectoGrupal-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=javierzv777&repo=ProyectoGrupal-1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/javierzv777/videogames-pi-FT-25" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=javierzv777&repo=videogames-pi-FT-25&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
