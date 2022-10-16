@@ -14,7 +14,7 @@ Full Stack Programmer, graduated from Henry bootcamp, with skills in Javascript,
 * 🤝  I'm open to collaborating on interesting proyects
 
 
-src="https://img.shields.io/twitter/follow/javierzv7771?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+
 /></a><a href="https://www.github.com/javierzv777" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/javierzv777?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
